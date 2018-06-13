@@ -1,4 +1,10 @@
-using SnapsLibrary;
+// using SnapsEngine from How to Code C#
+
+// A neighbor of yours wants to open a diner for truck drivers. He is doing research on the traffic in the area because he wants to know how many trucks pass his site each day. He wants a way of counting cars, vans, trucks, and bikes as they go past, and wants to simply press a button for each different kind of vehicle that he sees go by.
+
+// Write a program that will do this for him.using
+
+ SnapsLibrary;
 
 public class Vehicle             
 {
